@@ -1,6 +1,6 @@
 # Attendance Management System
 
-## Project Requirements
+<!-- Project Requirements -->
 
 ### Core Features
 
