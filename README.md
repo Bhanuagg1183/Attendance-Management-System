@@ -1,7 +1,5 @@
 # Attendance Management System
-
 <!-- Project Requirements -->
-
 ### Core Features
 
 #### Facial Attendance Marking:
