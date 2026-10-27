@@ -56,4 +56,4 @@
 
 - Admins can monitor, filter, and export attendance data efficiently.
 
-Based on your requirements, I'll create a comprehensive Attendance Management System as a web application that demonstrates all the core functionality you've outlined. Since we're working in a web environment, I'll build this as a progressive web app.
+<!-- Based on your requirements, I'll create a comprehensive Attendance Management System as a web application that demonstrates all the core functionality you've outlined. Since we're working in a web environment, I'll build this as a progressive web app. -->
