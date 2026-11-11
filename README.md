@@ -1,5 +1,7 @@
 # Attendance Management System
 <!-- Project Requirements -->
+<!-- This Project has been created as per instructions given in the assignment of 6th Sem of B. Tech. -->
+
 ### Core Features
 
 #### Facial Attendance Marking:
