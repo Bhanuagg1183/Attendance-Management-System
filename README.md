@@ -11,7 +11,7 @@ The use of AI Tools such as ChatGPT, BOLT, Netlify etc is a remarking feature of
 
 - Capture live image of the user.
 
-- Run facial recognition model (e.g., OpenCV + pretrained model or custom CNN) to verify identity.
+- Run facial recognition model (e.g. OpenCV + pretrained model or custom CNN) to verify identity.
 
 - Mark attendance if the face is authenticated.
 
