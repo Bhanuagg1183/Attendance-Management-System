@@ -1,6 +1,7 @@
 # Attendance Management System
 <!-- Project Requirements -->
-<!-- This Project has been created as per instructions given in the assignment of 6th Sem of B. Tech. -->
+<!-- This Project has been created as per instructions given in the assignment of 6th Sem of B. Tech. 
+The use of AI Tools such as ChatGPT, BOLT, Netlify etc is a remarking feature of this project. -->
 
 ### Core Features
 
